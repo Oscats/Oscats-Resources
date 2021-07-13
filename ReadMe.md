@@ -7,12 +7,12 @@
 
 - [RobotPy](https://robotpy.readthedocs.io/en/stable/)
 
-## VMX-Pi
+### VMX-Pi
 
 - [Vmx-Pi](https://pdocs.kauailabs.com/vmx-pi/software/vmx-pi-for-frc-2020-robot-programming/vmx-pi-for-frc-documentation/)
 - [Titan Motor Controller](https://docs.wsr.studica.com/en/latest/docs/GettingStarted/index.html)
 
-## Vendor Libraries
+### Vendor Libraries
 
 - Kuai Labs They make...
   - [Navx IMU](https://pdocs.kauailabs.com/navx-mxp/)
@@ -30,7 +30,7 @@
   - [Analog Pressure Switch](https://www.revrobotics.com/content/docs/REV-11-1107-DS.pdf)
   - [2m Distance Sensor](https://github.com/REVrobotics/2m-Distance-Sensor)
 
-## Vision
+### Vision
 
 - [Limelight](https://docs.limelightvision.io/en/latest/)
 - [WPILibPi](https://docs.wpilib.org/en/stable/docs/software/vision-processing/wpilibpi/index.html)
