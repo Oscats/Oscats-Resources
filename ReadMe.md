@@ -31,7 +31,8 @@
   - [2m Distance Sensor](https://github.com/REVrobotics/2m-Distance-Sensor)
 
 ## Vision
-- [Linmelight](https://docs.limelightvision.io/en/latest/)
+
+- [Limelight](https://docs.limelightvision.io/en/latest/)
 - [WPILibPi](https://docs.wpilib.org/en/stable/docs/software/vision-processing/wpilibpi/index.html)
 
 ## Non-FRC
