@@ -44,3 +44,5 @@
 - [Maqueen](https://github.com/MrRSquared/Oscats-Hackathon/blob/main/Robots/Non-FRC/Maqueen/Maqueen_Plus_Getting_Started_Tutorial_MakeCode-master)
 - [Zumo](https://github.com/MrRSquared/Oscats-Hackathon/tree/main/Robots/Non-FRC/Zumo)
   - [Zumo rules](http://robogames.net/rules/all-sumo.php) (The Zumo bots we have are in the mini category)
+
+You may use <a href = "https://lucidchart.com"> LucidCharts </a> to create your own flowcharts. There is an <a href = "https://www.gliffy.com/blog/guide-to-flowchart-symbols"> entire vocabulary of flowchart icons</a>, but you could use whichever for now,as long as you know what the icons you choose represent as you intend them (and will be able to do so later).
