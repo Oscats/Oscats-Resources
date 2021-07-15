@@ -43,3 +43,4 @@
   - [Makecode](https://www.birdbraintechnologies.com/finch/makecode/)
 - [Maqueen](https://github.com/MrRSquared/Oscats-Hackathon/blob/main/Robots/Non-FRC/Maqueen/Maqueen_Plus_Getting_Started_Tutorial_MakeCode-master)
 - [Zumo](https://github.com/MrRSquared/Oscats-Hackathon/tree/main/Robots/Non-FRC/Zumo)
+  - [Zumo rules](http://robogames.net/rules/all-sumo.php) (The Zumo bots we have are in the mini category)
