@@ -2,7 +2,7 @@
 
 On this page, you can find links to much of the documentation for the products we use. This will begin as a programming reference, but the hope is that it will grow over time.
 
-Vendor Libraries(#VendorLibraries)
+[Vendor Libraries](#VendorLibraries)
 ## FRC Robots<a name="FRCRobots"></a>
 
 - [WPILib](https://docs.wpilib.org/en/stable/)
