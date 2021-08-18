@@ -1,6 +1,8 @@
 # Oscats Resources Page
 
-## FRC Robots
+On this page, you can find links to much of the documentation for the products we use. This will begin as a programming reference, but the hope is that it will grow over time.
+
+## <a name="FRC Robots"></a>
 
 - [WPILib](https://docs.wpilib.org/en/stable/)
 - [Romi](https://docs.wpilib.org/en/stable/docs/romi-robot/index.html)
@@ -32,8 +34,10 @@
 
 ### Vision
 
-- [Limelight](https://docs.limelightvision.io/en/latest/)
-- [WPILibPi](https://docs.wpilib.org/en/stable/docs/software/vision-processing/wpilibpi/index.html)
+- [Limelight](https://docs.limelightvision.io/en/latest/) The Limelight has become standard in FRC implementation, but we are beginning to find some better options as well
+- [Photon](https://docs.photonvision.org/en/latest/) This is like a limelight, but it works on any Pi, is faster, and supports 3d imaging with solve PNP
+- [Chameleon](https://chameleon-vision.readthedocs.io/en/latest/contents.html)This is the precursor to Photon. It should work with the VMX-Pi. You can still use the Photon Tutorial with it if you use the Chameleon Network tables for your data
+- [WPILibPi](https://docs.wpilib.org/en/stable/docs/software/vision-processing/wpilibpi/index.html) This is the image for the ROmi, but it also doubles as a Vision pipeline image. It is probably better to use one of the other options for ease of access. Yet, for customization and Machine Learning options, this is the place to be
 
 ## Non-FRC
 
