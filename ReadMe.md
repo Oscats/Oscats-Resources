@@ -2,19 +2,20 @@
 
 On this page, you can find links to much of the documentation for the products we use. This will begin as a programming reference, but the hope is that it will grow over time.
 
-## <a name="FRC Robots"></a>
+Vendor Libraries(#VendorLibraries)
+## FRC Robots<a name="FRCRobots"></a>
 
 - [WPILib](https://docs.wpilib.org/en/stable/)
 - [Romi](https://docs.wpilib.org/en/stable/docs/romi-robot/index.html)
 
 - [RobotPy](https://robotpy.readthedocs.io/en/stable/)
 
-### VMX-Pi
+### VMXPi<a name ="VMX-Pi"></a>
 
 - [Vmx-Pi](https://pdocs.kauailabs.com/vmx-pi/software/vmx-pi-for-frc-2020-robot-programming/vmx-pi-for-frc-documentation/)
 - [Titan Motor Controller](https://docs.wsr.studica.com/en/latest/docs/GettingStarted/index.html)
 
-### Vendor Libraries
+### Vendor Libraries<a name ="VendorLibraries"></a>
 
 - Kuai Labs They make...
   - [Navx IMU](https://pdocs.kauailabs.com/navx-mxp/)
