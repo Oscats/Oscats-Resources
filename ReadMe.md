@@ -5,11 +5,11 @@ Here are some quick links to sections of this page...
 
 ## Index <a name= "Index"></a>
 
-- [FRC Robots](FRCRobots) 
-- [VMXPi](#VMXPi) 
-- [Vendor Libraries](#VendorLibraries) 
-- [Vision](#Vision) 
-- [Other Non-FRC Bots](OtherBots) 
+- [FRC Robots](FRCRobots)
+- [VMXPi](#VMXPi)
+- [Vendor Libraries](#VendorLibraries)
+- [Vision](#Vision)
+- [Other Non-FRC Bots](OtherBots)
 - [Flow Charts](#flow)
 
 ## FRC Robots<a name="FRCRobots"></a>
