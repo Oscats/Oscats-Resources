@@ -91,6 +91,6 @@ Do you want to learn a language from scratch? PDR recommends this site. It has a
 ## Flow Charts
 
  As our code gets more complex, thinking through our processes will be helpful. Flow charts are a wonderful way to do so.
-You may use <a href = "https://lucidchart.com"> LucidCharts </a> to create your own flowcharts. There is an <a href = "https://www.gliffy.com/blog/guide-to-flowchart-symbols"> entire vocabulary of flowchart icons</a>, but you could use whichever for now,as long as you know what the icons you choose represent as you intend them (and will be able to do so later).
+You may use [LucidCharts](https://lucidchart.com) to create your own flowcharts. There is an [entire vocabulary](https://www.gliffy.com/blog/guide-to-flowchart-symbols) of flowchart icons, but you could use whichever for now,as long as you know what the icons you choose represent as you intend them (and will be able to do so later).
 
 [Back to the Index](#Index)
