@@ -3,19 +3,19 @@
 On this page, you can find links to much of the documentation for the products we use. This will begin as a programming reference, but the hope is that it will grow over time.
 Here are some quick links to sections of this page...
 
-## Index <a name= "Index"></a>
+## Index
 
 - [Oscats Resources Page](#oscats-resources-page)
-  - [Index <a name= "Index"></a>](#index-)
-  - [Programming Resources <a name="programming"></a>](#programming-resources-)
-  - [FRC Robots<a name="FRCRobots"></a>](#frc-robots)
-    - [VMXPi<a name ="VMX-Pi"></a>](#vmxpi)
-    - [Vendor Libraries<a name ="VendorLibraries"></a>](#vendor-libraries)
-    - [Vision<a name="Vision"></a>](#vision)
-  - [Non-FRC <a name="OtherBots"></a>](#non-frc-)
-  - [Flow Charts <a name="flow"></a>](#flow-charts-)
+  - [Index](#index)
+  - [Programming Resources](#programming-resources)
+  - [FRC Robot](#frc-robot)
+    - [VMXPi](#vmxpi)
+    - [Vendor Libraries](#vendor-libraries)
+    - [Vision](#vision)
+  - [Non-FRC](#non-frc)
+  - [Flow Charts](#flow-charts)
 
-## Programming Resources <a name="programming"></a>
+## Programming Resources
 
 - [Programming Done Right](https://frc-pdr.readthedocs.io/en/latest/index.html) This is a helpful resource with examples from all three main languages. It has tutorial websites as well as how to program a robot to win competitions. Some of the code may be a bit outdated, but is still a premium resource.
 
@@ -30,20 +30,19 @@ Do you want to learn a language from scratch? PDR recommends this site. It has a
   - [Java](https://www.w3schools.com/java/default.asp)
   - [C++](https://www.w3schools.com/cpp/cpp_syntax.asp)
 
-
-## FRC Robots<a name="FRCRobots"></a>
+## FRC Robot
 
 - [WPILib](https://docs.wpilib.org/en/stable/)
 - [Romi](https://docs.wpilib.org/en/stable/docs/romi-robot/index.html)
 
 - [RobotPy](https://robotpy.readthedocs.io/en/stable/)
 
-### VMXPi<a name ="VMX-Pi"></a>
+### VMXPi
 
 - [Vmx-Pi](https://pdocs.kauailabs.com/vmx-pi/software/vmx-pi-for-frc-2020-robot-programming/vmx-pi-for-frc-documentation/)
 - [Titan Motor Controller](https://docs.wsr.studica.com/en/latest/docs/GettingStarted/index.html)
 
-### Vendor Libraries<a name ="VendorLibraries"></a>
+### Vendor Libraries
 
 - Kuai Labs They make...
   - [Navx IMU](https://pdocs.kauailabs.com/navx-mxp/)
@@ -63,7 +62,7 @@ Do you want to learn a language from scratch? PDR recommends this site. It has a
   
 [Back to the Index](#Index)
 
-### Vision<a name="Vision"></a>
+### Vision
 
 - [Limelight](https://docs.limelightvision.io/en/latest/) The Limelight has become standard in FRC implementation, but we are beginning to find some better options as well
 - [Photon](https://docs.photonvision.org/en/latest/) This is like a limelight, but it works on any Pi, is faster, and supports 3d imaging with solve PNP
@@ -73,7 +72,7 @@ Do you want to learn a language from scratch? PDR recommends this site. It has a
 
 [Back to the Index](#Index)
 
-## Non-FRC <a name="OtherBots"></a>
+## Non-FRC
 
 - Finch
   - [Installation](https://www.birdbraintechnologies.com/finch/java/install/1-1)
@@ -85,7 +84,7 @@ Do you want to learn a language from scratch? PDR recommends this site. It has a
   
 [Back to the Index](#Index)
 
-## Flow Charts <a name="flow"></a>
+## Flow Charts
 
  As our code gets more complex, thinking through our processes will be helpful. Flow charts are a wonderful way to do so.
 You may use <a href = "https://lucidchart.com"> LucidCharts </a> to create your own flowcharts. There is an <a href = "https://www.gliffy.com/blog/guide-to-flowchart-symbols"> entire vocabulary of flowchart icons</a>, but you could use whichever for now,as long as you know what the icons you choose represent as you intend them (and will be able to do so later).
