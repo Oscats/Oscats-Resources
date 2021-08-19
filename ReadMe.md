@@ -5,12 +5,31 @@ Here are some quick links to sections of this page...
 
 ## Index <a name= "Index"></a>
 
-- [FRC Robots](FRCRobots)
-- [VMXPi](#VMXPi)
-- [Vendor Libraries](#VendorLibraries)
-- [Vision](#Vision)
-- [Other Non-FRC Bots](OtherBots)
-- [Flow Charts](#flow)
+- [Oscats Resources Page](#oscats-resources-page)
+  - [Index <a name= "Index"></a>](#index-)
+  - [Programming Resources <a name="programming"></a>](#programming-resources-)
+  - [FRC Robots<a name="FRCRobots"></a>](#frc-robots)
+    - [VMXPi<a name ="VMX-Pi"></a>](#vmxpi)
+    - [Vendor Libraries<a name ="VendorLibraries"></a>](#vendor-libraries)
+    - [Vision<a name="Vision"></a>](#vision)
+  - [Non-FRC <a name="OtherBots"></a>](#non-frc-)
+  - [Flow Charts <a name="flow"></a>](#flow-charts-)
+
+## Programming Resources <a name="programming"></a>
+
+- [Programming Done Right](https://frc-pdr.readthedocs.io/en/latest/index.html) This is a helpful resource with examples from all three main languages. It has tutorial websites as well as how to program a robot to win competitions. Some of the code may be a bit outdated, but is still a premium resource.
+
+Do you want to learn a language from scratch? PDR recommends this site. It has an intro course for free in each of the following languages.
+
+- [Java](https://www.tutorialspoint.com/java/index.htm)
+- [C++](https://www.tutorialspoint.com/cplusplus/index.htm)
+- [Python](https://www.tutorialspoint.com/python3/index.htm)
+  
+- [w3Schools](https://www.w3schools.com/) If you find yourself bored with the sites above or needing a quick resource, you cannot get much better than this. How do I do x in y language? This should have the answer. I learned Javascript and JSON syntax through this site exclusively.
+  - [Python](https://www.w3schools.com/python/default.asp)
+  - [Java](https://www.w3schools.com/java/default.asp)
+  - [C++](https://www.w3schools.com/cpp/cpp_syntax.asp)
+
 
 ## FRC Robots<a name="FRCRobots"></a>
 
@@ -48,7 +67,8 @@ Here are some quick links to sections of this page...
 
 - [Limelight](https://docs.limelightvision.io/en/latest/) The Limelight has become standard in FRC implementation, but we are beginning to find some better options as well
 - [Photon](https://docs.photonvision.org/en/latest/) This is like a limelight, but it works on any Pi, is faster, and supports 3d imaging with solve PNP
-- [Chameleon](https://chameleon-vision.readthedocs.io/en/latest/contents.html)This is the precursor to Photon. It should work with the VMX-Pi. You can still use the Photon Tutorial with it if you use the Chameleon Network tables for your data
+- [Photon NetworkTables API](https://docs.photonvision.org/en/latest/docs/programming/nt-api/nt-api.html) Since Photon does not have raspberry pi binaries, the best way to use it on the VMX-Pi is to use network tables.
+- [Photon Code Examples](https://docs.photonvision.org/en/latest/docs/examples/index.html) These example tutorials are wonderful. On the VMX Pi, we need to use the older [PID Controller Class](https://docs.wpilib.org/en/2020/docs/software/advanced-control/controllers/pidcontroller.html).
 - [WPILibPi](https://docs.wpilib.org/en/stable/docs/software/vision-processing/wpilibpi/index.html) This is the image for the ROmi, but it also doubles as a Vision pipeline image. It is probably better to use one of the other options for ease of access. Yet, for customization and Machine Learning options, this is the place to be
 
 [Back to the Index](#Index)
