@@ -30,6 +30,8 @@ Do you want to learn a language from scratch? PDR recommends this site. It has a
   - [Java](https://www.w3schools.com/java/default.asp)
   - [C++](https://www.w3schools.com/cpp/cpp_syntax.asp)
 
+[Back to the Index](#Index)
+
 ## FRC Robot
 
 - [WPILib](https://docs.wpilib.org/en/stable/)
@@ -41,6 +43,8 @@ Do you want to learn a language from scratch? PDR recommends this site. It has a
 
 - [Vmx-Pi](https://pdocs.kauailabs.com/vmx-pi/software/vmx-pi-for-frc-2020-robot-programming/vmx-pi-for-frc-documentation/)
 - [Titan Motor Controller](https://docs.wsr.studica.com/en/latest/docs/GettingStarted/index.html)
+  
+[Back to the Index](#Index)
 
 ### Vendor Libraries
 
