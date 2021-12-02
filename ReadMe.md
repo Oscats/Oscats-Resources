@@ -19,7 +19,7 @@ Here are some quick links to sections of this page...
 
 - [WPILib](https://docs.wpilib.org/en/stable/) has all the resources we need to learn how to program a robot. We will be utilizing this resource frequently.
 
-This is outdated, but I am keeping it here as it is a bit clearer in some ways than Docs.wpilib.org--- [Programming Done Right](https://frc-pdr.readthedocs.io/en/latest/index.html) This is a helpful resource with examples from all three main languages. It has tutorial websites as well as how to program a robot to win competitions. Some of the code may be a bit outdated, but is still a premium resource.
+This is outdated, but we are keeping it here as it is a bit clearer and less intimidating in some places than Docs.wpilib.org--- [Programming Done Right](https://frc-pdr.readthedocs.io/en/latest/index.html) This is a helpful resource with examples from all three main languages. It has tutorial websites as well as how to program a robot to win competitions. Some of the code may be a bit outdated, but is still a premium resource.
 
 Do you want to learn a language from scratch? PDR recommends this site. It has an intro course for free in each of the following languages.
 
