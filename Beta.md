@@ -6,4 +6,7 @@ Then, begin making the benchtop test run with secure the motor(s) to the board. 
 - Use either a USB cable or ethernet to connect directly to the Rio
 - Open VSCode (be certain to use the 2022 Beta)
 - Create a new project using the Benchtop test template
+- Change the motor ports to match the ones you actually used
 - Deploy it
+- Enable the robot
+- Did work? If so, Proceed to adding a Radio or Using the motors via CAN
