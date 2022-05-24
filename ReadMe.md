@@ -75,6 +75,7 @@ Do you want to learn a language from scratch? PDR recommends this site. It has a
 - [Photon NetworkTables API](https://docs.photonvision.org/en/latest/docs/programming/nt-api/nt-api.html) Since Photon does not have raspberry pi binaries, the best way to use it on the VMX-Pi is to use network tables.
 - [Photon Code Examples](https://docs.photonvision.org/en/latest/docs/examples/index.html) These example tutorials are wonderful. On the VMX Pi, we need to use the older [PID Controller Class](https://docs.wpilib.org/en/2020/docs/software/advanced-control/controllers/pidcontroller.html).
 - [WPILibPi](https://docs.wpilib.org/en/stable/docs/software/vision-processing/wpilibpi/index.html) This is the image for the Romi, but it also doubles as a Vision pipeline image. It is probably better to use one of the other options for ease of access. Yet, for customization and Machine Learning options, this is the place to be
+- [Jetson Hello World File] (https://developer.nvidia.com/embedded/twodaystoademo#hello_ai_world) This is a good jumpong-off point for the NVIDIA Jetson.
 
 [Back to the Index](#Index)
 
